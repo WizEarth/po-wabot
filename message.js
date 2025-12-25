@@ -329,7 +329,7 @@ ${command}`});
       header: `${idx + 1}`,
       title: vid.title.substring(0, 20),
       description: vid.link,
-      id: `gxnxx ${vid.link}`
+      id: `.gxnxx ${vid.link}`
     }))
 
     // 5) Kirim pesan hanya dengan NativeFlow single_select
